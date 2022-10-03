@@ -4,7 +4,7 @@ A cloud formation script detailing the architecture of a highly available web ap
 Lucid Chart Design Diagram
 https://lucid.app/publicSegments/view/6e755cb9-2d29-4470-bbc6-c35aad5aad86/image.jpeg
 
-<img src="architecture.png.png" alt="kafka_illustration" height="500" width="700">
+<img src="architecture.png" alt="illustration" height="500" width="700">
 
 
 
